@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Curp-App</string>
+    <string name="generar">Generar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="estado">Estado</string>
+    <string name="fecha_de_nacimineto">Fecha de nacimineto</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="genero">Genero</string>
+</resources>
